@@ -1,0 +1,2 @@
+Rajiv Gandhi Institute of Petroleum Technology, website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using Assistive technologies, such as screen readers. The information of the website is accessible with different screen readers.
+Various Screen Readers to choose from
